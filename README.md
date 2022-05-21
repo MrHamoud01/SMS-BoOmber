@@ -1,9 +1,9 @@
 # SMS-BoOmber
-Just BoOmb Their Phone
+Just BoOmb Their Phones
 This SmS BoOmber v1.01 
 
-use it against your Firends , Teachers  ...etc
-enjoy
+Use it against your Firends , Teachers  ...etc
+Enjoy
 
 
-Coded By Mrhamoud01 ~ mrh 
+Coded By Mrhamoud. 
